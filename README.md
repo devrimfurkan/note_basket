@@ -1,5 +1,6 @@
 # Note Basket
 You can safely store your notes with "Note Basket" application.
+
 "Not Sepeti" uygulaması ile notlarınızı güvenle saklayabilirsiniz.
 
 Verileri saklamak için Sqflite ve SharedPeference kullanılmıştır.
